@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/Project-got-react/static/css/main.85b09b1d.css",
+    "main.js": "/Project-got-react/static/js/main.e30ea2cb.js",
+    "static/js/787.11cd88dd.chunk.js": "/Project-got-react/static/js/787.11cd88dd.chunk.js",
+    "static/media/audiogot.mp3": "/Project-got-react/static/media/audiogot.e6241cefc234d6200321.mp3",
+    "static/media/gif.gif": "/Project-got-react/static/media/gif.ad5eba146b93738b07c1.gif",
+    "static/media/lanister.png": "/Project-got-react/static/media/lanister.8b898ec18f424fd3b7fe.png",
+    "static/media/one.png": "/Project-got-react/static/media/one.a7387dc9429c1cc84869.png",
+    "static/media/danery.png": "/Project-got-react/static/media/danery.e6166db33124e16623db.png",
+    "static/media/dragon.png": "/Project-got-react/static/media/dragon.19427c4e18f9f3b85047.png",
+    "static/media/Dn.png": "/Project-got-react/static/media/Dn.414eb0dd34c92f92f7c2.png",
+    "static/media/snow.png": "/Project-got-react/static/media/snow.421b2c3920d3b8213701.png",
+    "static/media/wall.png": "/Project-got-react/static/media/wall.cec3fce4d6ad517b476c.png",
+    "static/media/front.png": "/Project-got-react/static/media/front.08703ba64c010f2cf24e.png",
+    "index.html": "/Project-got-react/index.html",
+    "main.85b09b1d.css.map": "/Project-got-react/static/css/main.85b09b1d.css.map",
+    "main.e30ea2cb.js.map": "/Project-got-react/static/js/main.e30ea2cb.js.map",
+    "787.11cd88dd.chunk.js.map": "/Project-got-react/static/js/787.11cd88dd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85b09b1d.css",
+    "static/js/main.e30ea2cb.js"
+  ]
+}
