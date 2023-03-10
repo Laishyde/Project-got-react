@@ -1,0 +1,36 @@
+.Size{
+    width: 90%;
+
+}
+h1{
+    color: red;
+   padding-top: 40px;
+   font-size: 80px;  
+}
+.text{
+    font-size: 70px;
+}
+p{
+   padding: 40px;
+    line-height: 30px;
+}
+.test{
+    text-align: center;
+}
+@media(max-width:900px){
+    .text{
+        font-size: 50px;
+    }
+    p{
+        padding: 70px;
+    }
+}
+
+
+
+
+
+
+
+
+
